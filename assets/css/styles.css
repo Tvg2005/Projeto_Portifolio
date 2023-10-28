@@ -413,6 +413,10 @@ body .full-width {
         grid-template-columns: 1fr;
     }
     
+    .form_img {
+        display: none;
+    }
+    
     .menu {
         bottom: 0;
     }
