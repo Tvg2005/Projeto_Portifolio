@@ -463,5 +463,9 @@ body .full-width {
     .back_to_top {
         font-size: 3.5rem;
     }
+
+    .botao {
+        margin: 0;
+    }
     
 }
